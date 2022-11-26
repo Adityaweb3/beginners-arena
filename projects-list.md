@@ -28,3 +28,4 @@ All the projects that our community has added can be found here.
 - [To-do list](https://github.com/tinniaru3005/To-do-list) - Made by [Arunima Chaudhuri](https://github.com/tinniaru3005)
 - [PDF Reader](https://github.com/rushikeshsuryawanshi/Pdf-Reader) - Made by [Rushikesh Suryawanshi](https://github.com/rushikeshsuryawanshi)
 - [Real Estate On Blockchain](https://github.com/Adityaweb3/RealEstate_Block) - Made by [Aditya K Pandey](https://github.com/Adityaweb3)
+-  [Funding DAO On Blockchain](https://github.com/Adityaweb3/funding-dao) - Made by [Aditya K Pandey](https://github.com/Adityaweb3)
