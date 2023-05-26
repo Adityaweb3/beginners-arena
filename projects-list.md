@@ -30,3 +30,5 @@ All the projects that our community has added can be found here.
 - [Smart Careers](https://github.com/tinniaru3005/Smart-Careers) - Made by [Arunima Chaudhuri](https://github.com/tinniaru3005)
 - [ExploreCS](https://github.com/tinniaru3005/ExploreCS) - Made by [Arunima Chaudhuri](https://github.com/tinniaru3005)
 - [Weather App](https://github.com/007aneesh/Weather-Api) - Made by [Aneesh Aggarwal](https://github.com/007aneesh)
+- [Memory Game (Windows Forms)](https://github.com/Panquesito7/memory-game) - Made by [David Leal](https://github.com/Panquesito7)
+- [Memory Game (terminal)](https://github.com/Panquesito7/terminal-memory_game) - Made by [David Leal](https://github.com/Panquesito7)
