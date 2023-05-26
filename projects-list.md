@@ -29,3 +29,4 @@ All the projects that our community has added can be found here.
 - [PDF Reader](https://github.com/rushikeshsuryawanshi/Pdf-Reader) - Made by [Rushikesh Suryawanshi](https://github.com/rushikeshsuryawanshi)
 - [Smart Careers](https://github.com/tinniaru3005/Smart-Careers) - Made by [Arunima Chaudhuri](https://github.com/tinniaru3005)
 - [ExploreCS](https://github.com/tinniaru3005/ExploreCS) - Made by [Arunima Chaudhuri](https://github.com/tinniaru3005)
+- [Weather App](https://github.com/007aneesh/Weather-Api) - Made by [Aneesh Aggarwal](https://github.com/007aneesh)
